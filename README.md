@@ -1,11 +1,11 @@
 # 境界の向こう側より、ごきげんよう―――――
-更新日: 2025/07/04
+更新日: 2026/06/15
 
 ## 🎀プロフィール
 
 ### 🌸結界の狭間から、愛をこめて―――――
 初めましての方も、そうでない方も、ごきげんよう。<br />
-『やえがきゆかり』と申します。<br />
+『八重垣 結香里(やえがき ゆかり)』と申します。<br />
 もしよければ『やえゆか』と呼んでください！<br />
 <br />
 個人サークル「桜咲くむらさきざくら」を、気の赴くままに運営してます。<br />
@@ -15,211 +15,18 @@
 幻想と追憶が交差する物語を、どうぞお楽しみに―――――。
 
 ### 🌸名前
-やえがきゆかり
+八重垣 結香里(やえがき ゆかり)
 
 ### 🌸性別
-男性
+女性(中身は男性)
 
 ### 🌸誕生日
 1998/08/24
 
 ### 🌸二つ名
-愛妻家ゆかゆゆガチ勢（初心者）<br />
-<small>これは、幻想郷の住人・輸尻さん（[X(Twitter)](https://twitter.com/2uoYuketusan)）からの頂き物です。</small>
+- 仮想結界を紡ぐ巫女
 
-## 🎀他の内容
-
-### 🌸サービス・ゲーム
-#### ゲーム
-- バンドリ: 88419760（最近あんまりやってない）
-- 艦これ: 宿毛湾泊地所属（本名のため記載不可）
-- 東方原作（現作のみ）
-- 東方ロスワ: 0255671036（最近かなりやってます）達
-- 東方アルカ: 127951（最近あんまりやってない）
-- 原神: 844122899
-- ~~Nintendo Switch: SW-7054-4875-6311~~
-
-### 🌸私の幻想を彩ってくださる方々
-#### 幻想を彩る絵師さま達
-<!-- 相互 -->
-- 墨白たま。 さん
-	- [X(Twitter)](https://x.com/Sumishiro_8070)
-	- [pixiv](https://www.pixiv.net/users/54011004)
-- 輸尻 さん
-	- [X(Twitter)](https://twitter.com/2uoYuketusan)
-	- [pixiv](https://www.pixiv.net/users/31609157)
-- ゆきわり さん
-	- [X(Twitter)](https://x.com/ykwr0223)
-	- [pixiv](https://www.pixiv.net/users/25818807)
-- cat さん
-	- ~~[X(Twitter)](https://x.com/gratiaplatonica)~~
-- まりあ さん
-	- [X(Twitter)](https://x.com/Maria_neko)
-	- [pixiv](https://www.pixiv.net/users/1147042)
-- 音羽 さん
-	- [X(Twitter)](https://x.com/otoha4634)
-	- [pixiv]()
-- しらぬい さん
-	- [X(Twitter)](https://x.com/shiranui_illust)
-	- [pixiv](https://www.pixiv.net/users/6593248)
-- 南瓜かぷちー さん
-	- [X(Twitter)](https://x.com/kaputii)
-	- [pixiv](https://www.pixiv.net/users/245287)
-- 天原やこ さん
-	- [X(Twitter)](https://x.com/yako_amahara)
-	- [pixiv(現)](https://www.pixiv.net/users/98303520)
-	- [pixiv(旧)](https://www.pixiv.net/users/29500485)
-<!-- 非相互 -->
-- イブ さん
-	- [X(Twitter)](https://x.com/ibuibuyou)
-	- [pixiv](https://www.pixiv.net/users/6298363)
-- ゆうま さん
-	- [X(Twitter)](https://x.com/108mash)
-	- [pixiv](https://www.pixiv.net/users/30197)
-- 兜兜（ドード） さん
-	- [X(Twitter)](https://x.com/dodo7880)
-- Yuriniel さん
-	- [X(Twitter)](https://x.com/teyuriniel_)
-	- [pixiv](https://www.pixiv.net/users/18813645)
-- minusT さん
-	- [X(Twitter)](https://x.com/tauminust)
-	- [pixiv](https://www.pixiv.net/users/15772166)
-- maka さん
-	- [X(Twitter)](https://x.com/maka_mogmog)
-	- [pixiv](https://www.pixiv.net/users/28190161)
-- 政長 さん
-	- [X(Twitter)](https://x.com/naga_masanaga)
-	- [pixiv](https://www.pixiv.net/users/2219278)
-- つね さん
-	- [X(Twitter)](https://x.com/tsu_ne_tune)
-	- [pixiv](https://www.pixiv.net/users/11365815)
-- 天月ことは さん
-	- [X(Twitter)](https://x.com/amatsukikotoha)
-	- [pixiv](https://www.pixiv.net/users/106457937)
-- 虎鲨酱 さん
-	- [X(Twitter)](https://x.com/hushajiang)
-	- [pixiv](https://www.pixiv.net/users/3814666)
-- Lilith さん
-	- [X(Twitter)](https://x.com/nominomi)
-	- [pixiv](https://www.pixiv.net/users/320242)
-- りぬい さん
-	- [pixiv](https://www.pixiv.net/users/2934529)
-- さざなみみぉ さん
-	- [X(Twitter)](https://x.com/sazanamimio)
-	- [pixiv](https://www.pixiv.net/users/1092517)
-- 冬霧るな さん
-	- [X(Twitter)](https://x.com/huyugiri_luna)
-	- [pixiv](https://www.pixiv.net/users/19212069)
-- かむいこたん さん
-	- [X(Twitter](https://x.com/kamu_kotan)
-- 兜兜子 さん
-	- [pixiv](https://www.pixiv.net/users/26536041)
-- きりのせ さん
-	- [X(Twitter)](https://x.com/kirinose_00)
-	- [pixiv](https://www.pixiv.net/users/1351055)
-- グリンー（二小姐格林）さん
-	- [pixiv](https://www.pixiv.net/users/7155418)
-
-#### 幻想に舞い降りし存在
-<!-- 相互 -->
-- Takuto さん
-	- [X(Twitter)](https://x.com/kasenyukayuyu09)
-	- [Instagram](https://www.instagram.com/tactics797)
-- 舞妖 さん
-	- [X(Twitter)](https://x.com/10___ri_Mayo)
-<!-- 非相互 -->
-
-#### 幻想の歴史を綴る者
-<!-- 相互 -->
-<!-- 非相互 -->
-- 八幡刻 さん
-	- [X(Twitter)](https://x.com/toki_yahata)
-	- [pixiv](https://www.pixiv.net/users/130315)
-
-### 境界を越えし声
-<!-- 相互 -->
-<!-- 非相互 -->
-- 壱百満天原サロメ さん
-
-### 幻想を奏でる調べ
-<!-- 相互 -->
-- PRAY さん
-	- [X(Twitter)](https://x.com/praymusicmelt)
- 	- [YouTube](https://www.youtube.com/@pray5430)
-	- [ニコニコ動画](https://www.nicovideo.jp/user/126795164/video)
- 
-<!-- 非相互 -->
-- まりつみ さん
-	- [X(Twitter)](https://x.com/maritumi)
- 	- [YouTube](https://www.youtube.com/channel/UCLBZcndRzbN92awmkpuTmDg)
-
-<small>※増えます。</small>
-
-### 🌸愛（キャラクター）
-#### 東方Project
-- 八雲紫
-- 西行寺幽々子
-
-### 🌸大好き（キャラクター）
-#### 東方Project
-- 魂魄妖夢
-- 八雲藍
-- 橙 ~~ちぇええええええん！！！！ちぇええええええええええええん！！！！！！！！~~
-
-### 🌸好き（キャラクター）
-#### 東方Project
-- 博麗霊夢
-- フランドール・スカーレット
-- 古明地さとり
-- 稗田阿求
-- 本居小鈴
-
-#### バンドリ
-- Pastel*Palettes（ちさあや）
-
-#### 温泉むすめ
-- 奥津かがみ
-
-#### 艦これ
-- 瑞穂
-- 神風
-- 春風
-
-#### 五等分の花嫁
-- 中野五月
-
-#### 原神
-<!-- 女性 -->
-- 蛍
-- リサ
-- 神里綾華
-- 珊瑚宮心海
-- 八重神子
-- ドリー
-- ニィロウ
-- ナヒーダ
-- ファルザン
-- 綺良々
-- フリーナ
-- ナヴィア
-- 千織
-- アルレッキーノ（召使）
-- エミリエ
-- シトラリ
-- 藍硯
-- 夢見月瑞希
-
-<!-- 男性 -->
-- アルハイゼン
-- カーヴェ
-- セノ
-- ティナリ
-- 放浪者
-- リネ
-- リオセスリ
-- ヌヴィレット
-
-### 🌸好き（キャラクター以外）
+### 🌸好き
 - 桜🌸
 - 和風
 - 旅行
@@ -228,11 +35,5 @@
 ### 🌸初心者
 - プログラミング（基本情報技術者）
 - 鉄道系
-
-### 🌸やりたいこと
-- コスプレ（メイクありのガチなやつ）
-- 47都道府県制覇（現状: 11都府県/47都道府県）
-
-
 
 <small>幻想とは終わりを知らぬ夢。そこに境界がある限り果ては来ない―――――。</small>
